@@ -1,0 +1,14 @@
+{
+    "name": "vue-filter-date-format",
+    "version": "1.0.0",
+    "main": "dist/vue-filter-date-format.js",
+    "module": "dist/vue-filter-date-format.js",
+    "unpkg": "dist/vue-filter-date-format.js",
+    "browser": {
+        "./sfc": "src/vue-filter-date-format.js"
+    },
+    "devDependencies": {
+        "vue": "^2.5.7",
+        "moment": "^2.24.0"
+    }
+}
